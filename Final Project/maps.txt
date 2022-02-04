@@ -1,0 +1,54 @@
+-1 -1 -1 -1 -1 3 3 3 -1 0 
+-1 2 2 -1 -1 -1 -1 -1 -1 0 
+-1 -1 -1 -1 -1 2 2 -1 0 0 
+-1 3 3 3 -1 -1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 1 -1 2 2 -1 
+-1 1 -1 1 -1 -1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 -1 -1 1 -1 0 
+-1 5 5 5 5 5 -1 -1 -1 0 
+-1 -1 -1 -1 -1 -1 -1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+-1 -1 -1 -1 -1 3 3 3 -1 0 
+-1 2 2 -1 -1 -1 -1 -1 -1 0 
+-1 -1 -1 -1 -1 2 2 -1 0 0 
+-1 3 3 3 -1 -1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 1 -1 2 2 -1 
+-1 1 -1 1 -1 -1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 -1 -1 1 -1 0 
+-1 5 5 5 5 5 -1 -1 -1 0 
+-1 -1 -1 -1 -1 -1 -1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k W W W W k k 
+k k k k W C C W k k 
+k k k k W W W W k k 
+k k W W W k k k k k 
+k k W C W k k k k k 
+k k W W W k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+k k k k k k k k k k 
+meti-
+kadi-
+10
+8
+3
+4
+82 83 84 85 86 
+16 17 18 42 43 44 
+36 37 22 23 58 59 
+64 62 56 78 
+82 83 84 85 86 
+16 17 18 42 43 44 
+36 37 22 23 58 59 
+64 62 56 78 
